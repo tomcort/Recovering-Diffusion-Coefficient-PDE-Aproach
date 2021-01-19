@@ -11,7 +11,7 @@
 
 ## Portafolio Personal
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomcort/tomcort/Recovering-Diffusion-Coefficient-PDE-Aproach/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomcort/Recovering-Diffusion-Coefficient-PDE-Aproach/master?urlpath=lab)
 
 ### Tomás Cortés
 
